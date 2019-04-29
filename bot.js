@@ -344,4 +344,4 @@ client.on("guildMemberAdd", member => {
   client.channels.find('id', '563863609441124363').send(` **Welcome To __Te__st Server**  `)
 });
 /////////
-client.login('توكن');
+client.login('NTcyMzc2NzI3MTc5ODg2NTky.XMbZtw.iuOswPJTksm7KqR7omD9nkUaFBY');
