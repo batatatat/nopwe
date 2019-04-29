@@ -2,7 +2,7 @@
 const client = new Discord.Client();
 var prefix = "-"
 var adminprefix = '*'
-const developers = ["282066712654774282","id"]
+const developers = ["282066712654774282","352807943839940618"]
  
 client.on('message', message => {
     var p = message.mentions.members.first();
